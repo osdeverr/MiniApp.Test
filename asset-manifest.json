@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/MiniApp.Test/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/MiniApp.Test/static/js/main.d51eaab8.chunk.js",
+    "main.js.map": "/MiniApp.Test/static/js/main.d51eaab8.chunk.js.map",
+    "runtime-main.js": "/MiniApp.Test/static/js/runtime-main.c689f00f.js",
+    "runtime-main.js.map": "/MiniApp.Test/static/js/runtime-main.c689f00f.js.map",
+    "static/css/2.92d02543.chunk.css": "/MiniApp.Test/static/css/2.92d02543.chunk.css",
+    "static/js/2.f19d156d.chunk.js": "/MiniApp.Test/static/js/2.f19d156d.chunk.js",
+    "static/js/2.f19d156d.chunk.js.map": "/MiniApp.Test/static/js/2.f19d156d.chunk.js.map",
+    "static/js/3.eda60952.chunk.js": "/MiniApp.Test/static/js/3.eda60952.chunk.js",
+    "static/js/3.eda60952.chunk.js.map": "/MiniApp.Test/static/js/3.eda60952.chunk.js.map",
+    "index.html": "/MiniApp.Test/index.html",
+    "static/css/2.92d02543.chunk.css.map": "/MiniApp.Test/static/css/2.92d02543.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/MiniApp.Test/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.f19d156d.chunk.js.LICENSE.txt": "/MiniApp.Test/static/js/2.f19d156d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c689f00f.js",
+    "static/css/2.92d02543.chunk.css",
+    "static/js/2.f19d156d.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.d51eaab8.chunk.js"
+  ]
+}
